@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Startechb
-- 👀 I’m interested in  game development, software development and data science.
-- 🌱 I’m currently learning data science and analysis as well as game development.
-- 💞️ I’m looking to collaborate on game dev, software dev or data science.
-- 📫 How to reach me through my email address sylvianjane900@gmail.com
+# 👋 Hi, I'm Sylvia  
 
-<!---
-Startechb/Startechb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 **Data Scientist | Machine Learning & AI Enthusiast | Freelancer**  
+
+I specialize in **data science, machine learning, AI, and statistical analysis**, with expertise in:  
+- 📊 **Data Analysis & Visualization** (Python, R, SQL, Power BI)  
+- 🤖 **Machine Learning & AI** (Scikit-Learn, TensorFlow, Deep Learning)  
+- 📈 **Statistical Modeling & Probability**  
+- 🛠 **Database Systems & Big Data**  
+
+ 🚀 **Portfolio Projects**  
+✔ [Breast Cancer Prediction using AdaBoost & Bagging]  
+✔ More coming soon!  
+
+💼 **Freelancing & Collaboration**  
+I'm available for **data-driven projects, ML model development, and analytics consulting**.  
+
+📫 **Let's Connect!**  
+🌐 [LinkedIn] | 💼 [Upwork]
