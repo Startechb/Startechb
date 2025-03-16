@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sylvia  
+#  Hey, I'm Silvia  
 
 🔹 **Data Scientist | Machine Learning & AI Enthusiast | Freelancer**  
 
