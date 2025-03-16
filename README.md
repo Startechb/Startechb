@@ -6,14 +6,14 @@ I specialize in **data science, machine learning, AI, and statistical analysis**
 - 📊 **Data Analysis & Visualization** (Python, R, SQL, Power BI)  
 - 🤖 **Machine Learning & AI** (Scikit-Learn, TensorFlow, Deep Learning)  
 - 📈 **Statistical Modeling & Probability**  
-- 🛠 **Database Systems & Big Data**  
+- **Database Systems & Big Data**  
 
- 🚀 **Portfolio Projects**  
+  **Portfolio Projects**  
 ✔ [Breast Cancer Prediction using AdaBoost & Bagging]  
 ✔ More coming soon!  
 
-💼 **Freelancing & Collaboration**  
+ **Freelancing & Collaboration**  
 I'm available for **data-driven projects, ML model development, and analytics consulting**.  
 
-📫 **Let's Connect!**  
+ **Let's Connect!**  
 🌐 [LinkedIn] | 💼 [Upwork]https://www.upwork.com/freelancers/~015204f89a094450a7?mp_source=share
