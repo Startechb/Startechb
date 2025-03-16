@@ -16,4 +16,4 @@ I specialize in **data science, machine learning, AI, and statistical analysis**
 I'm available for **data-driven projects, ML model development, and analytics consulting**.  
 
 📫 **Let's Connect!**  
-🌐 [LinkedIn] | 💼 [Upwork]
+🌐 [LinkedIn] | 💼 [Upwork]https://www.upwork.com/freelancers/~015204f89a094450a7?mp_source=share
